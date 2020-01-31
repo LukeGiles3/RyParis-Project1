@@ -1,0 +1,22 @@
+#page {
+    max-width: 1500px;
+    font-family: Arial, sans-serif;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #F1A536;
+    font-size: 20px;
+    color: black;
+}
+.logo {
+    background-image: url('images/ryparis-logo.png');
+}
+.links a:hover {
+    text-decoration: none;
+    background-color: aliceblue;
+}
+.links a:link, a:visited {
+    text-decoration: none;
+}
