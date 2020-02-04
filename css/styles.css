@@ -1,22 +1,43 @@
 #page {
-    max-width: 1500px;
+    max-width: 1300px;
+    margin: 0 auto;
     font-family: Arial, sans-serif;
 }
-.header {
+.nav {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
     background-color: #F1A536;
     font-size: 20px;
     color: black;
-}
-.logo {
-    background-image: url('images/ryparis-logo.png');
+    height: 100px;
+    margin: 5px 0;
 }
 .links a:hover {
     text-decoration: none;
     background-color: aliceblue;
+    color: black;
+    padding: 10px;
 }
 .links a:link, a:visited {
     text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.content1 {
+    background-image: url('/images/hero-image.jpg');
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.content1-words {
+    background-color: white;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 50px 0;
 }
