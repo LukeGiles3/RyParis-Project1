@@ -85,8 +85,33 @@ ul, li {
 .sub-text {
     font-size: large;
     background-color: white;
+    padding: 32px;
 }
 .content3 {
     height: 600px;
     background-color: #DADFEA;
+}
+.image4 {
+    background-image: url('/images/fajita-peppers.jpeg');
+}
+.image5 {
+    background-image: url('/images/muffins.jpeg');
+}
+.image6 {
+    background-image: url('/images/eggplant-parmesan.jpg');
+}
+.image7 {
+    background-image: url('/images/teriyaki-chicken.jpeg');
+}
+.image-sizing2 {
+    background-size: cover;
+    background-position: center center;
+    margin: 10px 10px 0 10px;
+    height: 200px;
+    width: 255px;
+}
+.text2 {
+    font-size: 20px;
+    padding-top: 20px;
+    margin: 50px 150px;
 }
