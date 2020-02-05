@@ -40,6 +40,15 @@ ul, li {
     justify-content: center;
     align-items: flex-end;
 }
+.recipe-content1 {
+    background-image: url('/images/hamburger-fries.jpg');
+    background-size: cover;
+    background-position: bottom;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
 .content1-words {
     background-color: white;
     padding: 20px;
@@ -148,4 +157,20 @@ ul, li {
     margin: 10px;
     height: 275px;
     width: 325px;
+}
+.table {
+    width: 100%;
+    padding: 20px 0 20px 60px;
+    background-color: #DADFEA;
+}
+td {
+    padding: 5px;
+}
+.font-time {
+    font-weight: bold;
+    font-size: 35px;
+}
+.font-labels {
+    font-weight: bold;
+    font-size: 20px;
 }
