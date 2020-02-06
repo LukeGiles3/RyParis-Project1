@@ -174,3 +174,44 @@ td {
     font-weight: bold;
     font-size: 20px;
 }
+.star-color {
+    color: #A63223;
+}
+.printer-size {
+    font-size: 50px;
+    padding-left: 25px;
+}
+.content4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bengal {
+    font-size: 45px;
+    margin-top: 55px;
+    margin-bottom: 0;
+}
+.button {
+    background-color: #A63223;
+    color: #DADFEA;
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 10%;
+    margin-bottom: 40px;
+}
+.content5 {
+    background-color: #EEF0F4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    padding: 20px 50px;
+    margin: 0 80px;
+    font-weight: bold;
+}
+.lists {
+    display: flex;
+    flex-direction: column;
+    
+}
