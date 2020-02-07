@@ -33,7 +33,7 @@ ul, li {
     padding: 10px;
 }
 .content1 {
-    background-image: url('/images/hero-image.jpg');
+    background-image: url('../images/hero-image.jpg');
     background-size: cover;
     height: 600px;
     display: flex;
@@ -41,7 +41,7 @@ ul, li {
     align-items: flex-end;
 }
 .recipe-content1 {
-    background-image: url('/images/hamburger-fries.jpg');
+    background-image: url('../images/hamburger-fries.jpg');
     background-size: cover;
     background-position: bottom;
     height: 600px;
@@ -84,13 +84,13 @@ ul, li {
     align-items: center;
 }
 .image1 {
-    background-image: url('/images/breakfast-ideas.jpg');
+    background-image: url('../images/breakfast-ideas.jpg');
 }
 .image2 {
-    background-image: url('/images/cold-weather-dinners.jpeg');
+    background-image: url('../images/cold-weather-dinners.jpeg');
 }
 .image3 {
-    background-image: url('/images/vegetarian-ideas.jpg');
+    background-image: url('../images/vegetarian-ideas.jpg');
 }
 .sub-text {
     font-size: large;
@@ -102,16 +102,16 @@ ul, li {
     background-color: #DADFEA;
 }
 .image4 {
-    background-image: url('/images/fajita-peppers.jpeg');
+    background-image: url('../images/fajita-peppers.jpeg');
 }
 .image5 {
-    background-image: url('/images/muffins.jpeg');
+    background-image: url('../images/muffins.jpeg');
 }
 .image6 {
-    background-image: url('/images/eggplant-parmesan.jpg');
+    background-image: url('../images/eggplant-parmesan.jpg');
 }
 .image7 {
-    background-image: url('/images/teriyaki-chicken.jpeg');
+    background-image: url('../images/teriyaki-chicken.jpeg');
 }
 .image-sizing2 {
     background-size: cover;
@@ -126,7 +126,7 @@ ul, li {
     margin: 50px 150px;
 }
 .image8 {
-    background-image: url('/images/burger.jpg');
+    background-image: url('../images/burger.jpg');
     border-style: solid;
     border-width: 8px;
     border-color: #DADFEA;
@@ -137,7 +137,7 @@ ul, li {
     width: 325px;
 }
 .image9 {
-    background-image: url('/images/pizza.jpeg');
+    background-image: url('../images/pizza.jpeg');
     border-style: solid;
     border-width: 8px;
     border-color: #DADFEA;
@@ -148,7 +148,7 @@ ul, li {
     width: 325px;
 }
 .image10 {
-    background-image: url('/images/rice-bowl.jpg');
+    background-image: url('../images/rice-bowl.jpg');
     border-style: solid;
     border-width: 8px;
     border-color: #DADFEA;
